@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Atharva Raut</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p><img align="Right" src="https://img.freepik.com/free-vector/man-working-using-laptop-flat-design_1308-102458.jpg?size=626&ext=jpg&ga=GA1.2.647198670.1671065352&semt=ais" height="400" width="600" /></p>
+<p><img align="Right" src="https://img.freepik.com/free-vector/man-working-using-laptop-flat-design_1308-102458.jpg?size=626&ext=jpg&ga=GA1.2.647198670.1671065352&semt=ais" height="400" width="500" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvaraut2002&label=Profile%20views&color=0e75b6&style=flat" alt="atharvaraut2002" /> </p>
 

@@ -31,7 +31,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvaraut2002&theme=radical" width="48%" >
 
-[![Atharva's github activity graph](https://activity-graph.herokuapp.com/graph?username=atharvaraut2002&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Atharva's github activity graph](https://activity-graph.herokuapp.com/graph?username=atharvaraut2002&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/tinniaru3005">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaraut2002&theme=radical&layout=compact&">

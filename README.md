@@ -7,8 +7,6 @@
 
 - ⚡ I’m also Finalist at **Smart India Hackathon 2022** 
 
-- 🌱 I’m currently learning **React**
-
 - 🔭 I love to explore new technologies.
 
 - 💬 Ask me about **C++, Data Structures and Algorithms**.

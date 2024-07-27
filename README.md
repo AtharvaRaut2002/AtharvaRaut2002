@@ -3,7 +3,7 @@
 
 <p><img align="Right" src="https://img.freepik.com/free-vector/man-working-using-laptop-flat-design_1308-102458.jpg?size=626&ext=jpg&ga=GA1.2.647198670.1671065352&semt=ais" height="400" width="500" /></p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working as a **Full Stack Developer @Zvolv**
 
 - ⚡ I’m also Finalist at **Smart India Hackathon 2022** 
 

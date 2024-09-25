@@ -9,7 +9,7 @@
 
 - 🔭 I love to explore new technologies.
 
-- 💬 Ask me about **C++, Data Structures and Algorithms**.
+- 💬 Ask me about **C++, Data Structures and Algorithms, Angular, Javascript**.
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
